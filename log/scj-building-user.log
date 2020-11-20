@@ -1,0 +1,336 @@
+2020-11-10 14:35:06,432 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 14:35:06,749 INFO (GenericScope.java:295)- BeanFactory id=fd51a033-e80d-3291-82bc-9cad3a9583bf
+2020-11-10 14:35:06,913 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 14:35:06,919 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:35:06,919 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 14:35:06,920 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 14:35:06,998 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 14:35:06,999 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 556 ms
+2020-11-10 14:35:07,038 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 14:35:07,038 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 14:35:07,041 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 14:35:07,041 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 14:35:07,130 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 14:35:07,274 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 14:35:07,714 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:35:07,729 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 14:35:07,772 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 14:35:07,853 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.118 seconds (JVM running for 3.411)
+2020-11-10 14:45:17,346 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 14:45:17,690 INFO (GenericScope.java:295)- BeanFactory id=1dc3696a-ad86-30fb-b704-4034b8010bdd
+2020-11-10 14:45:17,851 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 14:45:17,857 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:45:17,858 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 14:45:17,858 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 14:45:25,867 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 14:45:26,204 INFO (GenericScope.java:295)- BeanFactory id=1dc3696a-ad86-30fb-b704-4034b8010bdd
+2020-11-10 14:45:26,368 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 14:45:26,374 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:45:26,374 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 14:45:26,375 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 14:45:26,452 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 14:45:26,452 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 574 ms
+2020-11-10 14:45:26,490 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 14:45:26,491 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 14:45:26,492 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 14:45:26,493 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 14:45:26,581 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 14:45:26,730 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 14:45:27,098 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:45:27,113 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 14:45:27,155 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 14:45:27,234 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.072 seconds (JVM running for 2.633)
+2020-11-10 14:46:10,080 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 14:46:10,080 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 14:46:10,084 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 14:46:36,685 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 14:46:37,071 INFO (GenericScope.java:295)- BeanFactory id=1dc3696a-ad86-30fb-b704-4034b8010bdd
+2020-11-10 14:46:37,268 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 14:46:37,275 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:46:37,276 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 14:46:37,276 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 14:46:37,375 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 14:46:37,375 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 678 ms
+2020-11-10 14:46:37,418 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 14:46:37,419 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 14:46:37,422 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 14:46:37,422 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 14:46:37,522 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 14:46:37,692 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 14:46:38,081 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 14:46:38,160 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 14:46:38,202 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 14:46:38,282 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.402 seconds (JVM running for 3.11)
+2020-11-10 14:46:53,352 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 14:46:53,352 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 14:46:53,356 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 14:52:07,988 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 14:52:07,990 INFO (NacosServiceRegistry.java:86)- De-registering from Nacos Server now...
+2020-11-10 14:52:08,025 INFO (NacosServiceRegistry.java:106)- De-registration finished.
+2020-11-10 14:52:19,521 WARN (DisposableBeanAdapter.java:349)- Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2020-11-10 14:52:19,522 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:01:57,062 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:01:57,393 INFO (GenericScope.java:295)- BeanFactory id=1dc3696a-ad86-30fb-b704-4034b8010bdd
+2020-11-10 15:01:57,555 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 15:01:57,561 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 15:01:57,562 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:01:57,562 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:01:57,637 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:01:57,638 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 563 ms
+2020-11-10 15:01:57,676 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:01:57,676 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:01:57,679 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:01:57,679 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:01:57,765 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:01:57,915 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:01:58,260 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 15:01:58,276 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 15:01:58,318 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 15:01:58,399 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.046 seconds (JVM running for 2.618)
+2020-11-10 15:02:12,972 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:02:13,302 INFO (GenericScope.java:295)- BeanFactory id=1dc3696a-ad86-30fb-b704-4034b8010bdd
+2020-11-10 15:02:13,475 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 15:02:13,482 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:02:13,482 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:02:13,482 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:02:13,567 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:02:13,567 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 584 ms
+2020-11-10 15:02:13,604 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:02:13,605 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:02:13,607 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:02:13,608 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:02:13,684 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:02:13,831 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:02:14,186 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:02:14,201 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 15:02:14,241 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 15:02:14,320 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.048 seconds (JVM running for 2.609)
+2020-11-10 15:02:47,476 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 15:02:47,477 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 15:02:47,480 INFO (FrameworkServlet.java:547)- Completed initialization in 3 ms
+2020-11-10 15:07:40,534 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:07:40,896 INFO (GenericScope.java:295)- BeanFactory id=37fe9618-8b62-3f2d-9293-0b7519a4ce8c
+2020-11-10 15:07:41,008 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:07:41,010 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:07:41,168 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 15:07:41,175 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:07:41,175 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:07:41,175 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:07:41,263 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:07:41,263 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 718 ms
+2020-11-10 15:07:41,304 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:07:41,304 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:07:41,307 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:07:41,307 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:07:41,410 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:07:41,437 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 15:07:41,575 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:07:41,986 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:07:41,994 WARN (AbstractApplicationContext.java:559)- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9003 is already in use
+2020-11-10 15:07:53,299 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:07:53,655 INFO (GenericScope.java:295)- BeanFactory id=37fe9618-8b62-3f2d-9293-0b7519a4ce8c
+2020-11-10 15:07:53,759 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:07:53,761 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:07:53,914 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 15:07:53,921 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 15:07:53,922 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:07:53,922 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:07:54,009 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:07:54,009 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 699 ms
+2020-11-10 15:07:54,051 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:07:54,051 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:07:54,053 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:07:54,054 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:07:54,161 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:07:54,190 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 15:07:54,327 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:07:54,758 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 15:07:54,773 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 15:07:54,812 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 15:07:54,890 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.287 seconds (JVM running for 2.873)
+2020-11-10 15:08:30,468 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 15:08:30,469 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 15:08:30,473 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 15:26:35,364 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:26:35,724 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 15:26:35,833 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:26:35,835 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:26:35,990 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 15:26:35,997 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 15:26:35,998 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:26:35,998 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:26:36,086 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:26:36,086 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 710 ms
+2020-11-10 15:26:36,128 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:26:36,128 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:26:36,130 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:26:36,131 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:26:36,235 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:26:36,262 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 15:26:36,403 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:26:36,868 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 15:26:36,883 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 15:26:36,931 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 15:26:37,011 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.39 seconds (JVM running for 2.991)
+2020-11-10 15:26:52,476 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:26:52,836 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 15:26:52,947 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:26:52,949 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:26:53,104 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 15:26:53,111 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:26:53,111 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:26:53,111 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:26:53,202 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:26:53,202 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 714 ms
+2020-11-10 15:26:53,244 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:26:53,244 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:26:53,247 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:26:53,247 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:26:53,351 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:26:53,378 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 15:26:53,515 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:26:53,962 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:26:53,978 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 15:26:54,023 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 15:26:54,102 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.363 seconds (JVM running for 2.97)
+2020-11-10 15:27:08,543 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 15:27:08,543 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 15:27:08,547 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 15:47:57,583 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 15:47:57,946 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 15:47:58,050 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:47:58,051 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 15:47:58,198 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 15:47:58,205 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:47:58,205 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 15:47:58,205 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 15:47:58,287 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 15:47:58,288 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 694 ms
+2020-11-10 15:47:58,327 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:47:58,328 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:47:58,330 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 15:47:58,330 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 15:47:58,431 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 15:47:58,458 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 15:47:58,592 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 15:47:59,015 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 15:47:59,030 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 15:47:59,080 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 15:47:59,157 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.322 seconds (JVM running for 2.937)
+2020-11-10 15:48:29,884 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 15:48:29,885 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 15:48:29,889 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 16:58:00,688 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 16:58:01,036 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 16:58:01,144 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 16:58:01,145 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 16:58:01,299 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 16:58:01,306 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 16:58:01,306 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 16:58:01,307 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 16:58:01,394 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 16:58:01,394 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 697 ms
+2020-11-10 16:58:01,435 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 16:58:01,436 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 16:58:01,438 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 16:58:01,438 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 16:58:01,540 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 16:58:01,567 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 16:58:01,705 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 16:58:02,125 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 16:58:02,140 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 16:58:02,180 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 16:58:02,260 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.262 seconds (JVM running for 3.374)
+2020-11-10 16:58:51,663 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 16:58:51,663 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 16:58:51,668 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 17:33:56,339 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 17:33:56,698 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 17:33:56,807 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:33:56,808 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:33:56,962 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 17:33:56,968 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 17:33:56,968 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 17:33:56,968 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 17:33:57,054 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 17:33:57,054 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 703 ms
+2020-11-10 17:33:57,095 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:33:57,095 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:33:57,097 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:33:57,098 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:33:57,201 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 17:33:57,228 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 17:33:57,364 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 17:33:57,762 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 17:33:57,778 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 17:33:57,824 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 17:33:57,904 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.287 seconds (JVM running for 2.873)
+2020-11-10 17:34:18,868 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 17:34:18,868 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 17:34:18,873 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 17:36:45,482 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 17:36:45,839 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 17:36:45,949 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:36:45,951 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:36:46,102 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9002 (http)
+2020-11-10 17:36:46,109 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9002"]
+2020-11-10 17:36:46,110 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 17:36:46,110 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 17:36:46,197 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 17:36:46,197 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 703 ms
+2020-11-10 17:36:46,239 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:36:46,239 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:36:46,241 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:36:46,242 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:36:46,345 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 17:36:46,372 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 17:36:46,510 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 17:36:46,925 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9002"]
+2020-11-10 17:36:46,940 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9002 (http) with context path ''
+2020-11-10 17:36:46,980 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9002 register finished
+2020-11-10 17:36:47,061 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.276 seconds (JVM running for 2.864)
+2020-11-10 17:37:21,485 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-10 17:37:21,486 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-11-10 17:37:21,490 INFO (FrameworkServlet.java:547)- Completed initialization in 4 ms
+2020-11-10 17:38:59,048 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 17:38:59,405 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 17:38:59,514 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:38:59,516 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:38:59,670 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 17:38:59,677 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 17:38:59,678 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 17:38:59,678 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 17:38:59,766 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 17:38:59,766 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 707 ms
+2020-11-10 17:38:59,808 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:38:59,808 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:38:59,811 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:38:59,811 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:38:59,918 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 17:38:59,946 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 17:39:00,096 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 17:39:00,562 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 17:39:00,578 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 17:39:00,618 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 17:39:00,699 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.429 seconds (JVM running for 3.047)
+2020-11-10 17:39:23,397 INFO (SpringApplication.java:655)- The following profiles are active: dev
+2020-11-10 17:39:23,830 INFO (GenericScope.java:295)- BeanFactory id=02907182-8e7e-37a6-a49f-8a4b813b8dc7
+2020-11-10 17:39:23,941 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:39:23,942 INFO (PostProcessorRegistrationDelegate.java:335)- Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-10 17:39:24,118 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 9003 (http)
+2020-11-10 17:39:24,126 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-9003"]
+2020-11-10 17:39:24,127 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-11-10 17:39:24,127 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-10 17:39:24,217 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-11-10 17:39:24,218 INFO (ServletWebServerApplicationContext.java:285)- Root WebApplicationContext: initialization completed in 808 ms
+2020-11-10 17:39:24,262 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:39:24,262 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:39:24,264 WARN (URLConfigurationSource.java:121)- No URLs will be polled as dynamic configuration sources.
+2020-11-10 17:39:24,264 INFO (URLConfigurationSource.java:122)- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-11-10 17:39:24,376 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 17:39:24,404 INFO (SentinelWebAutoConfiguration.java:80)- [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+2020-11-10 17:39:24,543 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2020-11-10 17:39:25,001 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-9003"]
+2020-11-10 17:39:25,017 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 9003 (http) with context path ''
+2020-11-10 17:39:25,061 INFO (NacosServiceRegistry.java:71)- nacos registry, DEFAULT_GROUP scj-building-user 192.168.0.146:9003 register finished
+2020-11-10 17:39:25,142 INFO (StartupInfoLogger.java:61)- Started UserApplication in 2.559 seconds (JVM running for 3.159)

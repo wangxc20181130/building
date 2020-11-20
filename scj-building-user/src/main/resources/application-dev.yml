@@ -1,0 +1,20 @@
+server:
+  port: 9003
+logging:
+  config: classpath:logback.xml
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+spring:
+  application:
+    name: scj-building-user
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 120.77.221.218:8848
+        enabled: true #是否启用服务发现，不选默认启用
+    sentinel:
+      transport:
+        dashboard: 120.77.221.218:8858
+feign:
+  sentinel:
+    enabled: true #sentinel 对feign的支持开关
